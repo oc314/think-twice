@@ -2,5 +2,5 @@
 My repository just in case
 
 
-Hey there! Oleksii here. I like Java and IntelliG Idea.
+Hey there! Oleksii's here. I like Java and IntelliG Idea.
 Let's rock!
